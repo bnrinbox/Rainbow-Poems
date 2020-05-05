@@ -8,3 +8,5 @@ yellow
 orange
 red
 These are the colors of Rainbow
+
+no other colors to be added. this is the statement added after first commit.
