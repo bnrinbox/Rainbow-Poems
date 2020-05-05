@@ -10,3 +10,5 @@ red
 These are the colors of Rainbow
 
 no other colors to be added. this is the statement added after first commit.
+
+this test file used to commit and identify the differences.
