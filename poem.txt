@@ -1,0 +1,10 @@
+Rainbow colors - VIBGYOR
+
+violet
+indigo
+blue
+green
+yellow
+orange
+red
+These are the colors of Rainbow
